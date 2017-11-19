@@ -504,5 +504,9 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 .img-responsive {
+  border-radius: 50%;
   width: 256px;
+}
+.img-portfolio{
+  width: 100%;
 }
